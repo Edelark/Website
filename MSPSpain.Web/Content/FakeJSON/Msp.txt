@@ -379,9 +379,9 @@
         "university": "Universidad de Sevilla",
         "email": "etsiiantoni@outlook.es",
         "skills": "C#,Windows 8,Windows Phone",
-        "twitter": "",
-        "linkedin": "",
-        "website": "wigous.blog.com",
+        "twitter": "Edelark",
+        "linkedin": "AntoniCobos",
+        "website": "antonicobos.wordpress.com",
         "image": "http://i.imgur.com/Or63CSp.png",
         "thumbnail": "http://i.imgur.com/j0tsPps.png",
         "location": {
